@@ -44,47 +44,28 @@ This archive is structured as follows: The three main folders contain the differ
 └── Supplementary_material.pdf<br />
 
 
-</head>
-<body>
-	<h1>Directory Tree</h1><p>
-	baseHREF<br>
-	├── Case_study<br>
-	│   ├── Data<br>
-	│   ├── Output<br>
-	│   │   ├── calibration_plots.jpeg<br>
-	│   │   └── cases_study_results.RDS<br>
-	│   ├── README.md<br>
-	│   └── Script<br>
-	│   &nbsp;&nbsp;&nbsp; └── performance_measures.R<br>
-	├── Documents<br>
-	│   ├── Supplementary_material.pdf<br>
-	│   ├── Thesis_rvdg_v1.0.pdf<br>
-	│   └── approval_UU.pdf<br>
-	├── README.md<br>
-	├── Simulation_study<br>
-	│   ├── Analysis<br>
-	│   │   ├── Data<br>
-	│   │   ├── Output<br>
-	│   │   └── Script<br>
-	│   ├── Post_simulation_data_separation_check<br>
-	│   │   ├── Data<br>
-	│   │   ├── Output<br>
-	│   │   └── Script<br>
-	│   ├── Pre_simulation<br>
-	│   │   ├── Output<br>
-	│   │   └── Script<br>
-	│   ├── README.md<br>
-	│   └── Simulation<br>
-	│   &nbsp;&nbsp;&nbsp; ├── Output<br>
-	│   &nbsp;&nbsp;&nbsp; └── Script<br>
-	├── Software.txt<br>
-	└── Supplementary_material.pdf<br>
-	<br><br>
-	</p>
-	<p>
+.
+├── data                    <- Data about the simulation settings (PG)
+│   └── simulation settings <- The simulation studies as defined in the thesis (RO)
+├── docs                    <- Documentation notebook for users + supplementary material (HW)
+│   ├── manuscript          <- Manuscript source, e.g., LaTeX, Markdown, etc. (HW)
+|   ├── suppl. material     <- A document containing the supplementary information (RO)
+│   └── reports             
+|       ├── Proposal        <- Research proposal (HW)
+|       └── Research report <- Research report (HW)            
+├── results                 
+│   ├── figures             <- Figures for the manuscript (PG)
+│   └── output              <- Other output for the manuscript or reports (PG)
+|       ├── estimands       <- Estimands for each simulation run (PG)
+|       └── performance     <- Performance measures for each simulation run (PG)           
+├── src                     <- Source code for this project (HW)
+├── .gitignore              <- Files that are not taken into account when commiting (RO)
+├── CITATION.md             <- How to cite my work (RO)
+├── LICENSE.md              <- License for my project (RO)
+├── README.md               <- The document you are reading right now (RO)
+└── requirements.txt        <- Which packages are needed to run the scripts? (RO)
 
-</body>
-</html>
+
 
 # Software
 Details of the software used for this study can be found in [this file](Software.txt). Installing this packages will invoke installing dependencies needed.

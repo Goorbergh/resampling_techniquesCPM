@@ -16,32 +16,32 @@ This archive is structured as follows: The three main folders contain the differ
 │   ├── Output<br />. 
 │   │   ├── calibration_plots.jpeg<br />. 
 │   │   └── cases_study_results.RDS<br />. 
-│   ├── README.md
-│   └── Script
-│       └── performance_measures.R
-├── Documents
-│   ├── Supplementary_material.pdf
-│   ├── Thesis_rvdg_v1.0.pdf
-│   └── approval_UU.pdf
-├── README.md
-├── Simulation_study
-│   ├── Analysis
-│   │   ├── Data
-│   │   ├── Output
-│   │   └── Script
-│   ├── Post_simulation_data_separation_check
-│   │   ├── Data
-│   │   ├── Output
-│   │   └── Script
-│   ├── Pre_simulation
-│   │   ├── Output
-│   │   └── Script
-│   ├── README.md
-│   └── Simulation
-│       ├── Output
-│       └── Script
-├── Software.txt
-└── Supplementary_material.pdf
+│   ├── README.md<br />. 
+│   └── Script<br />. 
+│       └── performance_measures.R<br />. 
+├── Documents<br />. 
+│   ├── Supplementary_material.pdf<br />. 
+│   ├── Thesis_rvdg_v1.0.pdf<br />. 
+│   └── approval_UU.pdf<br />. 
+├── README.md<br />. 
+├── Simulation_study<br />. 
+│   ├── Analysis<br />. 
+│   │   ├── Data<br />. 
+│   │   ├── Output<br />. 
+│   │   └── Script<br />. 
+│   ├── Post_simulation_data_separation_check<br />. 
+│   │   ├── Data<br />. 
+│   │   ├── Output<br />. 
+│   │   └── Script<br />. 
+│   ├── Pre_simulation<br />. 
+│   │   ├── Output<br />. 
+│   │   └── Script<br />. 
+│   ├── README.md<br />. 
+│   └── Simulation<br />
+│       ├── Output<br />
+│       └── Script<br />
+├── Software.txt<br />
+└── Supplementary_material.pdf<br />
 
 
 

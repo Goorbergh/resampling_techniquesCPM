@@ -12,23 +12,37 @@ Methods to adjust for outcome imbalance, i.e. imbalance between the number of ev
 This archive is structured as follows: The three main folders contain the different main parts of the study (case study and simulation study) and the accompanying documents. Each main folder contains a README.md file discribing the content of the folder (and its subfolders) and how to use this content to reproduce (a part of) the results. 
 
 ```
-├── Case_study
+├── Case_study (All info on case study)
 │   ├── Data
 │   ├── Output
+│   │   ├── calibration_plots.jpeg
+│   │   └── cases_study_results.RDS
 │   ├── README.md
 │   └── Script
-├── Documents
+│       └── performance_measures.R
+├── Documents (Manuscript & Approval ethics boards)
 │   ├── Supplementary_material.pdf
 │   ├── Thesis_rvdg_v1.0.pdf
 │   └── approval_UU.pdf
 ├── README.md
-├── Simulation_study
+├── Simulation_study (All info on simulation study)
 │   ├── Analysis
+│   │   ├── Data
+│   │   ├── Output
+│   │   └── Script
 │   ├── Post_simulation_data_separation_check
+│   │   ├── Data
+│   │   ├── Output
+│   │   └── Script
 │   ├── Pre_simulation
+│   │   ├── Output
+│   │   └── Script
 │   ├── README.md
 │   └── Simulation
-├── Software.txt
+│       ├── Output
+│       └── Script
+├── Software.txt (Info on used software)
+
 ```
 
 

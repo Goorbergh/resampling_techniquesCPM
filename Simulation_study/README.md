@@ -13,6 +13,7 @@ R packages used in this phase.
 NOTE: the simulation study was executed on a high-performance computing facility running on a Linux- based Operating System (CentOS7). Running this simulation on 
 your local machine may not be feasable.
 
+
 ## Phase 1: pre-simulation
 In this phase, the beta coefficients used in the DGM are estimated (optim_beta.R), technical details of the estimation procedure can be found in appendix B of the manuscript.
 Next, all simulation scenarios were created and stored in a list (simulation_scenatios.R)

@@ -13,7 +13,7 @@ This archive is structured as follows: The three main folders contain the differ
 
 
 # Software
-Details of the software used for this study can be found in [this file](Software.txt).
+Details of the software used for this study can be found in [this file](Software.txt). Installing this packages will invoke installing dependencies needed.
 
 
 # License 

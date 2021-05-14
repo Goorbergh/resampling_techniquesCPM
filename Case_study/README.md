@@ -1,5 +1,5 @@
 # Case study
-Each subfolder in this folder contains all files to reproduce the case study. The folder contains the following subfolders:
+Each subfolder in this folder contains all files to reproduce the case study presented in the main paper. The folder contains the following subfolders:
 * Data, the IOTA data should be placed here
 * Script, contains the R scripts to perform the case study
 * Output, contains the results of the case study

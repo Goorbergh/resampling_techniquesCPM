@@ -1,7 +1,7 @@
 # resampling_techniquesCPM: Research Master Thesis Archive
 
 This repository accompanies my research master thesis:
-The harm of SMOTE and other resampling techniques in clinical prediction models: a simulation study
+[The harm of SMOTE and other resampling techniques in clinical prediction models: a simulation study](Documents/Thesis_rvdg_v1.0.pdf)
 
 Version 1.0, 14-5-2021
 

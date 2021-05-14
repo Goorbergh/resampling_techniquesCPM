@@ -1,0 +1,2 @@
+load("/Users/ruben/GitHub/Research_archive/Simulation_study/Post_simulation_data_separation_check/Output/separation_RUS.RDS")
+load("/Users/ruben/GitHub/Research_archive/Simulation_study/Post_simulation_data_separation_check/Output/sep_1_9_17.RDS")

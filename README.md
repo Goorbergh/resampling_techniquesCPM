@@ -11,32 +11,32 @@ Methods to adjust for outcome imbalance, i.e. imbalance between the number of ev
 # Folder Structure
 This archive is structured as follows: The three main folders contain the different main parts of the study (case study and simulation study) and the accompanying documents. Each main folder contains a README.md file discribing the content of the folder (and its subfolders) and how to use this content to reproduce (a part of) the results. 
 
-├── Case_study<br />. 
-│   ├── Data<br />. 
-│   ├── Output<br />. 
-│   │   ├── calibration_plots.jpeg<br />. 
-│   │   └── cases_study_results.RDS<br />. 
-│   ├── README.md<br />. 
-│   └── Script<br />. 
-│       └── performance_measures.R<br />. 
-├── Documents<br />. 
-│   ├── Supplementary_material.pdf<br />. 
-│   ├── Thesis_rvdg_v1.0.pdf<br />. 
-│   └── approval_UU.pdf<br />. 
-├── README.md<br />. 
-├── Simulation_study<br />. 
-│   ├── Analysis<br />. 
-│   │   ├── Data<br />. 
-│   │   ├── Output<br />. 
-│   │   └── Script<br />. 
-│   ├── Post_simulation_data_separation_check<br />. 
-│   │   ├── Data<br />. 
-│   │   ├── Output<br />. 
-│   │   └── Script<br />. 
-│   ├── Pre_simulation<br />. 
-│   │   ├── Output<br />. 
-│   │   └── Script<br />. 
-│   ├── README.md<br />. 
+├── Case_study<br />
+│   ├── Data<br />
+│   ├── Output<br />
+│   │   ├── calibration_plots.jpeg<br />
+│   │   └── cases_study_results.RDS<br />
+│   ├── README.md<br />
+│   └── Script<br />
+│       └── performance_measures.R<br />
+├── Documents<br />
+│   ├── Supplementary_material.pdf<br />
+│   ├── Thesis_rvdg_v1.0.pdf<br />
+│   └── approval_UU.pdf<br />
+├── README.md<br />
+├── Simulation_study<br />
+│   ├── Analysis<br />
+│   │   ├── Data<br />
+│   │   ├── Output<br />
+│   │   └── Script<br />
+│   ├── Post_simulation_data_separation_check<br />
+│   │   ├── Data<br />
+│   │   ├── Output<br />
+│   │   └── Script<br />
+│   ├── Pre_simulation<br />
+│   │   ├── Output<br />
+│   │   └── Script<br />
+│   ├── README.md<br />
 │   └── Simulation<br />
 │       ├── Output<br />
 │       └── Script<br />

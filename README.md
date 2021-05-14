@@ -44,6 +44,47 @@ This archive is structured as follows: The three main folders contain the differ
 └── Supplementary_material.pdf<br />
 
 
+</head>
+<body>
+	<h1>Directory Tree</h1><p>
+	baseHREF<br>
+	├── Case_study<br>
+	│   ├── Data<br>
+	│   ├── Output<br>
+	│   │   ├── calibration_plots.jpeg<br>
+	│   │   └── cases_study_results.RDS<br>
+	│   ├── README.md<br>
+	│   └── Script<br>
+	│   &nbsp;&nbsp;&nbsp; └── performance_measures.R<br>
+	├── Documents<br>
+	│   ├── Supplementary_material.pdf<br>
+	│   ├── Thesis_rvdg_v1.0.pdf<br>
+	│   └── approval_UU.pdf<br>
+	├── README.md<br>
+	├── Simulation_study<br>
+	│   ├── Analysis<br>
+	│   │   ├── Data<br>
+	│   │   ├── Output<br>
+	│   │   └── Script<br>
+	│   ├── Post_simulation_data_separation_check<br>
+	│   │   ├── Data<br>
+	│   │   ├── Output<br>
+	│   │   └── Script<br>
+	│   ├── Pre_simulation<br>
+	│   │   ├── Output<br>
+	│   │   └── Script<br>
+	│   ├── README.md<br>
+	│   └── Simulation<br>
+	│   &nbsp;&nbsp;&nbsp; ├── Output<br>
+	│   &nbsp;&nbsp;&nbsp; └── Script<br>
+	├── Software.txt<br>
+	└── Supplementary_material.pdf<br>
+	<br><br>
+	</p>
+	<p>
+
+</body>
+</html>
 
 # Software
 Details of the software used for this study can be found in [this file](Software.txt). Installing this packages will invoke installing dependencies needed.

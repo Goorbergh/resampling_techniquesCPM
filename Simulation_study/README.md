@@ -2,7 +2,7 @@
 
 Each subfolder in this folder contains all files to reproduce a part of the simulation study. All subfolders are structured in the same manner and contain to following
 folders:
-* Data (optional), contains the data used in the script files
+* Data (if any), contains the data used in the script files
 * Script, contains the R scripts to run the simulation
 * Output, contains the files that results from running the files in the script folder
 

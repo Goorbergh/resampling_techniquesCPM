@@ -11,6 +11,7 @@ Methods to adjust for outcome imbalance, i.e. imbalance between the number of ev
 # Folder Structure
 This archive is structured as follows: The three main folders contain the different main parts of the study (case study and simulation study) and the accompanying documents. Each main folder contains a README.md file discribing the content of the folder (and its subfolders) and how to use this content to reproduce (a part of) the results. 
 
+<!DOCTYPE html>
 <html>
 <head>
  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">

@@ -11,6 +11,8 @@ Methods to adjust for outcome imbalance, i.e. imbalance between the number of ev
 # Folder Structure
 This archive is structured as follows: The three main folders contain the different main parts of the study (case study and simulation study) and the accompanying documents. Each main folder contains a README.md file discribing the content of the folder (and its subfolders) and how to use this content to reproduce (a part of) the results. For each phase, the intermediate results are stored. This means that each simulation phase can be replicated without the need of running all previous phases, which is done to ease the preplication proces. 
 
+NOTE2: To replicate results, this whole archive should be downloaded without altering the folder structure or folder names. In the following files, the user has replace `<YOURLOCALFILEPATH>` with the local path to the research archive folder: script_case_study.R, simulation_scenarios.R, optim_beta.R, simulation_run.R, separation_simulation.R, imbalance_visualisation.R, results_figures_tables.R, supplementary_material_code.R.
+
 ```
 ├── Case_study (All info on case study)
 │   ├── Data
